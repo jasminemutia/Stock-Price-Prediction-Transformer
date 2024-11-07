@@ -1,4 +1,4 @@
-# Stock Price Prediction using Transformer
+# IBM and Facebook Stock Price Prediction using Transformer
 This project uses a Transformer model to predict stock prices for IBM and Facebook by analyzing historical data. 
 The focus is on building a model that captures complex time-series patterns for improved accuracy. 
 The process involves data preprocessing, model building, and fine-tuning to evaluate predictive performance.
@@ -6,7 +6,7 @@ The process involves data preprocessing, model building, and fine-tuning to eval
 ## Access the Project
 [IBM and Facebook Stock Price Prediction using Transformer](https://colab.research.google.com/drive/1x8V6wXdcYQIPFjT7ynzvyEvof_nZD6Cs?usp=sharing)
 
-## IBM and Facebook Stock Data
+## International Business Machines Corporation (IBM) and Facebook Stock Data
 - IBM Dataset: Contains approximately 14,663 rows of daily stock data.
 - Facebook Dataset: Similar in structure to IBM, with around 1,980 rows of daily stock data as well.
 - Columns:
